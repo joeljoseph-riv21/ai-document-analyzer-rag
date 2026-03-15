@@ -1,8 +1,6 @@
 # 📄 AI Document Analyzer (RAG)
 
-An AI-powered document question-answering system built using **Retrieval-Augmented Generation (RAG)**.
-This application allows users to upload documents and ask questions about their content. The system retrieves relevant sections from the document using semantic search and generates accurate answers using a Large Language Model.
-
+An AI-powered document question-answering system built using **Retrieval-Augmented Generation (RAG)** with LangChain, FAISS vector search, and Groq LLM, featuring a Streamlit interface for dynamic document upload and semantic querying.
 
 # 🚀 Features
 
@@ -124,10 +122,3 @@ AI-Document-Analyzer-RAG
 
 Joel Joseph R
 
-
-## Future Improvements
-
-- Multi-document support
-- Chat memory
-- Cloud deployment
-- Authentication
