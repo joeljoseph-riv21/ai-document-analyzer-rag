@@ -2,17 +2,17 @@
 
 An AI-powered document question-answering system built using **Retrieval-Augmented Generation (RAG)** with LangChain, FAISS vector search, and Groq LLM, featuring a Streamlit interface for dynamic document upload and semantic querying.
 
-# 🚀 Features
+#  Features
 
-* 📂 Dynamic document upload
-* 🔎 Semantic search using vector embeddings
-* 🧠 Retrieval-Augmented Generation (RAG)
-* ⚡ Fast LLM inference
-* 🌐 Interactive web interface
-* 📑 Supports document-based question answering
+*  Dynamic document upload
+*  Semantic search using vector embeddings
+*  Retrieval-Augmented Generation (RAG)
+*  Fast LLM inference
+*  Interactive web interface
+*  Supports document-based question answering
 
 
-# 🏗 Architecture
+# Architecture
 
 The system follows the **RAG pipeline**:
 
@@ -33,7 +33,7 @@ Retriever Finds Relevant Chunks
 LLM Generates Contextual Answer
 
 
-# 🧰 Tech Stack
+# Tech Stack
 
 ## Backend
 
@@ -51,7 +51,7 @@ LLM Generates Contextual Answer
 * Streamlit
 
 
-# 📁 Project Structure
+# Project Structure
 
 ```
 AI-Document-Analyzer-RAG
@@ -81,7 +81,7 @@ AI-Document-Analyzer-RAG
 └── .env.example
 ```
 
-# 📌 Example Workflow
+# Example Workflow
 
 1. Upload a document
 2. Process the document
@@ -89,7 +89,7 @@ AI-Document-Analyzer-RAG
 4. The AI retrieves relevant content and generates answers
 
 
-# 🧠 Key Concepts Used
+# Key Concepts Used
 
 * Retrieval-Augmented Generation (RAG)
 * Vector Embeddings
@@ -99,7 +99,7 @@ AI-Document-Analyzer-RAG
 * Contextual Prompt Engineering
 
 
-# 🌍 Real World Applications
+# Real World Applications
 
 * Legal document analysis
 * Research paper assistant
@@ -108,7 +108,7 @@ AI-Document-Analyzer-RAG
 * Enterprise knowledge retrieval systems
 
 
-# 🔮 Future Improvements
+# Future Improvements
 
 * Multi-document support
 * Conversational chat interface
@@ -118,7 +118,7 @@ AI-Document-Analyzer-RAG
 * API integration
 
 
-# 👨‍💻 Author
+# Author
 
 Joel Joseph R
 
